@@ -1,0 +1,8 @@
+1.  git clone maryrose-hw js-homework
+2.  cd js-homework
+3.  git branch comments
+4.  git checkout comments
+6.  git add homework.js
+7.  git commit -m "Comments added"
+8.  git push origin comments
+9.  cd ../maryrose-hw
